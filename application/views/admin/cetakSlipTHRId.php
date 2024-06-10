@@ -14,7 +14,7 @@
 
 <body>
     <center>
-        <h1>PT. GLORY OFFSET PRESS</h1>
+    <h1><img src="<?php echo base_url() ?>assets/img/logo.png" style="width: 400px; height:110px"></h1>
         <h2>Slip THR Pegawai</h2>
         <hr style="width: 50%; border-width: 5px; color: black">
     </center>
